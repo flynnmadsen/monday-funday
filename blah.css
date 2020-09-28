@@ -3,3 +3,14 @@ background-color: rgb(128, 24, 119);
 background-image: linear-gradient(to bottom right, rgb(128, 24, 119), black);
 
 }
+
+button {
+background-color: rgb(133, 202, 204);
+padding: 100px 100px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 75px;
+margin-left: 23%;
+border-radius: 50%;
+border: royalblue;
+display: inline;
+}
